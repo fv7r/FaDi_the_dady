@@ -8,7 +8,7 @@ import telebot
 from telethon import TelegramClient, functions
 
 # ====================== إعدادات البوت ======================
-BOT_TOKEN = "8425268390:AAEMkGdHlpWfhyZ0bLNU2DFCaWH43uSUdgE" # ضع توكن البوت
+BOT_TOKEN ="8425268390:AAEnWKfhl_RKGFVLgB9-rn90fJOnpLCCGjw"  # ضع توكن البوت
 OWNER_ID = 7391486173             # ايديك كمطور
 DEV_NAME = "FaDi مطور البوت"
 DEV_USER = "@F_7_Qi"             # يوزر المطور الحقيقي
